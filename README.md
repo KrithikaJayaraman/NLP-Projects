@@ -13,3 +13,9 @@ https://www.kaggle.com/c/quora-question-pairs/overview
 References:
 https://www.kaggle.com/currie32/quora-question-pairs/the-importance-of-cleaning-text
 https://radimrehurek.com/gensim/
+
+## Part 2:
+
+The second part of the project is to identify semantic similarity between Quora Question Pairs. 
+
+
